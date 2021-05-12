@@ -1,0 +1,292 @@
+{
+    "room1": {
+        "students": [],
+        "shuffled_students": [
+            {
+                "name": "akshit",
+                "bed_no": 1,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "akshay",
+                "bed_no": 2,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 3,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 4,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "parmeshwer",
+                "bed_no": 5,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "hemant",
+                "bed_no": 6,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 7,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "amol",
+                "bed_no": 8,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 9,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "dipesh",
+                "bed_no": 10,
+                "bed_position": "upside_bed"
+            }
+        ]
+    },
+    "room6": {
+        "students": [],
+        "shuffled_students": [
+            {
+                "name": "suraj",
+                "bed_no": 11,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "riyaz",
+                "bed_no": 12,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 13,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "sampat",
+                "bed_no": 14,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "shabid",
+                "bed_no": 15,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "tushar",
+                "bed_no": 16,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 17,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "abhay",
+                "bed_no": 18,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 19,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "umesh",
+                "bed_no": 20,
+                "bed_position": "upside_bed"
+            }
+        ]
+    },
+    "room7": {
+        "students": [],
+        "shuffled_students": [
+            {
+                "name": "surah shah",
+                "bed_no": 21,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "satpal",
+                "bed_no": 22,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "arif",
+                "bed_no": 23,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "anmol",
+                "bed_no": 24,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "anurag",
+                "bed_no": 25,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "rahul s",
+                "bed_no": 26,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 27,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "ranjan",
+                "bed_no": 28,
+                "bed_position": "upside_bed"
+            }
+        ]
+    },
+    "room8": {
+        "students": [],
+        "shuffled_students": [
+            {
+                "name": "empty",
+                "bed_no": 29,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "praveen",
+                "bed_no": 30,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 31,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "amarpal",
+                "bed_no": 32,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "rajkumar",
+                "bed_no": 33,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 34,
+                "bed_position": "upside_bed"
+            }
+        ]
+    },
+    "room10": {
+        "students": [],
+        "shuffled_students": [
+            {
+                "name": "empty",
+                "bed_no": 35,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 36,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "navid",
+                "bed_no": 37,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 38,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "priyanshu",
+                "bed_no": 39,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "dhruv",
+                "bed_no": 40,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "ankit",
+                "bed_no": 41,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 42,
+                "bed_position": "upside_bed"
+            }
+        ]
+    },
+    "room12": {
+        "students": [],
+        "shuffled_students": [
+            {
+                "name": "empty",
+                "bed_no": 43,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "ajmera",
+                "bed_no": 44,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "nasir",
+                "bed_no": 45,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 46,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 47,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "harshal",
+                "bed_no": 48,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "subhadip",
+                "bed_no": 49,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "prathemesh",
+                "bed_no": 50,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "raju",
+                "bed_no": 51,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "pawan",
+                "bed_no": 52,
+                "bed_position": "upside_bed"
+            }
+        ]
+    }
+}
